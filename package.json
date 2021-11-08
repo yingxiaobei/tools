@@ -1,0 +1,13 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "a library about tools",
+  "main": "index.js",
+  "repository": "git@github.com:yingxiaobei/tools.git",
+  "author": "wangying <2739548987@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "imagemin": "^6.1.0",
+    "imagemin-webp": "^6.0.0"
+  }
+}
